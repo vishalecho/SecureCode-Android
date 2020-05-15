@@ -1,4 +1,4 @@
-![# SecureCode-Android](/src/images/android.jpg)
+![#SecureCode-Android](/src/images/android.jpg)
 
 > ***Security Fundamental and Application Security Weaknesses (Mobile)***
 
