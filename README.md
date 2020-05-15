@@ -26,6 +26,7 @@
 - Sensitive Data Protection
 
 	* Insecure Data Storage
+
 		- Plaintext Storage Of Credentials
 		- Storage On SDCard / External Storage
 		- Storage Of Binary Cookies
@@ -99,6 +100,7 @@
 - Data Handling
 
 	* Unintended Data Leakage
+	
 		- Request/Response Caching 
 		- Keyboard Caching 
 		- Copy/Paste Buffer Caching(Pasteboard)
