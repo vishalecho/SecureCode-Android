@@ -20,7 +20,7 @@
 
 > ***Secure Architecture***
 
-### Application Security Weeknesses
+### Application Security Weaknesses
 > ***Mobile***
 
 - Sensitive Data Protection
