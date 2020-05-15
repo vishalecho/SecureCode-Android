@@ -24,6 +24,7 @@
 > ***Mobile***
 
 - Sensitive Data Protection
+
 	* Insecure Data Storage
 		- Plaintext Storage Of Credentials
 		- Storage On SDCard / External Storage
@@ -33,6 +34,7 @@
 		- Storage In SQLite Database
 
 - Insecure Development Practices
+
 	* Insufficient Transport Layer Protection 
 		- Weak Cipher Suites
 		- Trusting Self-Signed Or Untrusted Certificates
@@ -95,6 +97,7 @@
 		- Debugging Features Enabled
 
 - Data Handling
+
 	* Unintended Data Leakage
 		- Request/Response Caching 
 		- Keyboard Caching 
@@ -106,6 +109,7 @@
 		- Analytics Data Sent To 3rd Parties
 
 - Authentication and Access Control
+
 	* Insecure Authentication
 		- Storing Credentials With 'Remember Me' Functionality
 		- Use Of Spoofable Parameters For Authentication
